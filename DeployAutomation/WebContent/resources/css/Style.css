@@ -1,0 +1,21 @@
+
+
+td {
+	 height: 100px;
+}
+
+.red {
+	background-color: #ff8080;
+}
+
+.green {
+	background-color: #85e085;
+}
+
+thead {
+	background-color: #669999;
+}
+
+.table-nonfluid {
+   width: auto !important;
+}
